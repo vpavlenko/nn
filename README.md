@@ -15,3 +15,4 @@
 
 - [Andrej Karpathy. A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/)
 - https://github.com/google-research/tuning_playbook
+- https://education.yandex.ru/handbook/ml/article/tonkosti-obucheniya
