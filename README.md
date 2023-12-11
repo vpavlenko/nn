@@ -2,7 +2,7 @@
 
 - [Zero to Hero](https://karpathy.ai/zero-to-hero.html)
 - [course.fast.ai](https://course.fast.ai/)
-
+- https://education.yandex.ru/handbook/ml
 
 # How to train
 
