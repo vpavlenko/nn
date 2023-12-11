@@ -26,4 +26,4 @@
 
 
 # Where to start
-- https://colab.research.google.com/github/fastai/fastbook/blob/master/04_mnist_basics.ipynb - good intro on a basic MLP for MNIST. No exercises
+- https://colab.research.google.com/github/fastai/fastbook/blob/master/04_mnist_basics.ipynb - good intro on a basic MLP for MNIST. Excercise: train an MLP on entire MNIST
