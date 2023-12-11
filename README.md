@@ -2,7 +2,8 @@
 
 - [Zero to Hero](https://karpathy.ai/zero-to-hero.html)
 - [course.fast.ai](https://course.fast.ai/)
-- https://education.yandex.ru/handbook/ml
+- [Учебник ШАДа по машинному обучению](https://education.yandex.ru/handbook/ml)
+- [LLM Visualization](https://bbycroft.net/llm)
 
 # How to train
 
