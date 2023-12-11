@@ -1,8 +1,13 @@
-# Resources
+# Courses
 
 - [Zero to Hero](https://karpathy.ai/zero-to-hero.html)
 - [course.fast.ai](https://course.fast.ai/)
 - [Учебник ШАДа по машинному обучению](https://education.yandex.ru/handbook/ml)
+
+
+# Visualizations
+
+- https://playground.tensorflow.org/
 - [LLM Visualization](https://bbycroft.net/llm)
 
 # How to train
