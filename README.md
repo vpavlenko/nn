@@ -4,6 +4,8 @@
 - [course.fast.ai](https://course.fast.ai/)
 - [Учебник ШАДа по машинному обучению](https://education.yandex.ru/handbook/ml)
 - https://developers.google.com/machine-learning/crash-course
+- https://github.com/dair-ai/pytorch_notebooks
+- https://gitlab.engr.illinois.edu/saurabhg/dlcv-fa23-mps
 
 
 # Visualizations
