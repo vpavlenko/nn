@@ -38,6 +38,7 @@
 - https://www.kaggle.com/competitions/commonlitreadabilityprize/ (language -> score)
 - https://www.kaggle.com/c/denoising-dirty-documents (image -> image)
 
-# On transformers
+# Training transformers is hard
 - https://www.borealisai.com/research-blogs/tutorial-17-transformers-iii-training/
 - https://arxiv.org/pdf/1804.00247.pdf
+- https://aclanthology.org/2020.emnlp-main.463.pdf
