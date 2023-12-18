@@ -47,3 +47,4 @@
 # Misc
 
 - einops
+- https://nlp.seas.harvard.edu/NamedTensor
