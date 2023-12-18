@@ -43,3 +43,7 @@
 - https://arxiv.org/pdf/1804.00247.pdf
 - https://aclanthology.org/2020.emnlp-main.463.pdf
 - https://horace.io/brrr_intro.html
+
+# Misc
+
+- einops
