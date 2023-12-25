@@ -58,3 +58,4 @@
 
 - einops
 - https://nlp.seas.harvard.edu/NamedTensor
+- https://philliphaeusler.com/posts/tic_tac_toe/
