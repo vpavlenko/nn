@@ -23,6 +23,7 @@
 
 - https://aclanthology.org/2021.emnlp-main.446.pdf
 - https://arxiv.org/pdf/1506.01066.pdf
+- https://arxiv.org/pdf/2206.04301.pdf
 - https://transformer-circuits.pub/
 - https://www.lesswrong.com/posts/TvrfY4c9eaGLeyDkE/induction-heads-illustrated
 
