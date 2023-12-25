@@ -16,8 +16,15 @@
 - https://github.com/mdnoorit/letslearnai/blob/master/awesome_machine_learning_visualizations.md
 - https://microscope.openai.com/
 - https://distill.pub/
-- https://www.lesswrong.com/posts/TvrfY4c9eaGLeyDkE/induction-heads-illustrated
 
+
+
+# Understanding of LLMs
+
+- https://aclanthology.org/2021.emnlp-main.446.pdf
+- https://arxiv.org/pdf/1506.01066.pdf
+- https://transformer-circuits.pub/
+- https://www.lesswrong.com/posts/TvrfY4c9eaGLeyDkE/induction-heads-illustrated
 
 # Books
 
