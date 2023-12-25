@@ -16,6 +16,7 @@
 - https://github.com/mdnoorit/letslearnai/blob/master/awesome_machine_learning_visualizations.md
 - https://microscope.openai.com/
 - https://distill.pub/
+- https://www.lesswrong.com/posts/TvrfY4c9eaGLeyDkE/induction-heads-illustrated
 
 
 # Books
