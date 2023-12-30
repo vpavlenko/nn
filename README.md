@@ -2,7 +2,6 @@
 
 - [Zero to Hero](https://karpathy.ai/zero-to-hero.html)
 - [course.fast.ai](https://course.fast.ai/)
-- [Учебник ШАДа по машинному обучению](https://education.yandex.ru/handbook/ml)
 - https://developers.google.com/machine-learning/crash-course
 - https://www.kaggle.com/learn
 - https://github.com/dair-ai/pytorch_notebooks
@@ -30,6 +29,8 @@
 
 # Books
 
+- https://www.bishopbook.com/
+- [Учебник ШАДа по машинному обучению](https://education.yandex.ru/handbook/ml)
 - https://www.deeplearningbook.org/
 - https://d2l.ai/
 
